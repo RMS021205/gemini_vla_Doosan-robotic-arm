@@ -42,7 +42,7 @@ ros2 launch gemini_vla gemini_vla.launch.py 실행 시 아래 3개 노드가 동
   - 주요 발행 토픽:
       - /wipe_sequence_active (std_msgs/Bool)
 
-  ———
+  -------------------------------------------------------------------------------------------
 
   ## 시스템 동작 순서 (End-to-End)
 
